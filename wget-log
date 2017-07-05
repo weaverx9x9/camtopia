@@ -1,0 +1,6 @@
+--2017-07-04 23:01:20--  https://ic-4913ad00-11e164-21c3605.d.rncdn3.com/videos/201011/01/116527/480P_394K_116527.mp4?ipa=73.19.173.4
+Resolving ic-4913ad00-11e164-21c3605.d.rncdn3.com (ic-4913ad00-11e164-21c3605.d.rncdn3.com)... 38.98.18.139
+Connecting to ic-4913ad00-11e164-21c3605.d.rncdn3.com (ic-4913ad00-11e164-21c3605.d.rncdn3.com)|38.98.18.139|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-07-04 23:01:21 ERROR 400: Bad Request.
+

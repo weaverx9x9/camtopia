@@ -1,0 +1,22 @@
+{
+  "name": "camtopia",
+  "version": "1.0.0",
+  "description": "webcam site",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weaverx9x9/camtopia.git"
+  },
+  "author": "Weaver Hastings",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/weaverx9x9/camtopia/issues"
+  },
+  "homepage": "https://github.com/weaverx9x9/camtopia#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}

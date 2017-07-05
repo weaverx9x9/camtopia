@@ -1,0 +1,34 @@
+{
+  "name": "camtopia",
+  "version": "1.0.0",
+  "description": "webcam site",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weaverx9x9/camtopia.git"
+  },
+  "author": "Weaver Hastings",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/weaverx9x9/camtopia/issues"
+  },
+  "homepage": "https://github.com/weaverx9x9/camtopia#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.17.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.15.3",
+    "express-handlebars": "^3.0.0",
+    "express-session": "^1.15.3",
+    "method-override": "^2.3.9",
+    "mongodb": "^2.2.29",
+    "morgan": "^1.8.2",
+    "passport": "^0.3.2",
+    "passport-google": "^0.3.0",
+    "passport-local": "^1.0.0",
+    "q": "^1.5.0"
+  }
+}
